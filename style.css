@@ -1,0 +1,135 @@
+.container{
+     border: 2px solid  rgb(49, 45, 49); 
+  width: 99%;
+    height: 80px; 
+    box-sizing: border-box; 
+     display: inline-block; 
+     color: rgb(122, 0, 0);
+    background: rgb(211, 145, 21); 
+
+}
+body{
+    font-family :Arial, Helvetica, sans-serif;
+    background: rgb(49, 45, 49);
+}
+
+.logo{
+    width: 70px;
+    height: 57px;
+    background: rgb(211, 145, 21);
+    margin-top: 10px;
+    padding-left: 5px;
+    
+}
+.logo{
+    border-radius: 50%;
+    background-color: rgb(122, 0, 0);
+}
+/* li{
+    list-style: none;
+    text-align: end;
+    display: inline-block;
+  padding-left: 4px;
+
+} */
+a{
+    text-decoration: none;
+    color: rgb(122, 0, 0);
+    padding-left: 12%;
+    /* display: inline; */
+    align-items: center;
+font-size: larger;
+
+}
+.normal{
+border: 2px solid  rgb(49, 45, 49);;
+width: 20%;
+height: 288px;
+box-sizing: border-box;
+display: inline-block;
+padding-top: 11px;
+padding-right:10px ;
+padding-left: 10px;
+background: rgb(211, 145, 21);
+margin-top: 20px;
+}
+
+.class-1{
+    border: 2px solid black ;  
+    box-sizing: border-box;
+height: 27%;
+background: rgb(122, 0, 0);
+}
+.class-2{
+    border: 2px solid black ; 
+    box-sizing: border-box;
+height: 27%; 
+width: 100%;
+background: rgb(122, 0, 0);
+}
+.ofoooo{
+    width: 100%;
+    height: 60px;
+    padding:2% 2% 2% 2% ;
+    box-sizing: border-box; 
+    height: 71px;
+
+}
+.class-3{
+    border: 2px solid black ;  
+ box-sizing: border-box;
+height: 27%;
+ background: rgb(122, 0, 0) ;
+}
+.float{
+    border: 2px solid  rgb(49, 45, 49);
+    width: 79%;
+    height: 290px;
+display: inline-block;
+box-sizing: border-box;
+background: rgb(211, 145, 21);
+margin-top: 20px;
+}
+.onooo{
+  width: 97%;
+  height: 186px;  
+  padding: 10px 15px 10px 15px;
+  background: rgb(122, 0, 0);
+
+}
+p{
+    padding: 10px;
+    /* color: rgb(211, 145, 21); */
+    color: rgb(122, 0, 0);
+}
+footer{
+  border:  2px solid  rgb(49, 45, 49); 
+  color: rgb(122, 0, 0);
+  background: rgb(211, 145, 21);
+  width: 99;
+  height: 30px;
+  /* font-size: larger; */
+  box-sizing: border-box;
+/* padding-left: 18%; */
+padding-top: 5px;
+text-align: center;
+}
+/* .class-4{
+    border: 2px solid black;
+    width: 90%;
+    
+   
+}
+.class-5{
+    border: 2px solid black;
+    width: 30%;
+    display: inline-block;
+    height: 90px;
+}
+.class-6{
+    border: 2px solid black;
+    display: inline-block;
+    width: 60%;
+    height: 80px;
+} */
+
